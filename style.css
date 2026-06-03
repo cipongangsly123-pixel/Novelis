@@ -1,0 +1,9 @@
+
+body{font-family:system-ui;margin:0;background:#0f172a;color:#fff}
+header{display:flex;justify-content:space-between;padding:1rem;background:#111827;position:sticky;top:0}
+.hero{padding:4rem;text-align:center;background:linear-gradient(135deg,#1e293b,#2563eb)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;padding:20px}
+.card{background:#1e293b;padding:20px;border-radius:16px}
+a{color:#93c5fd;text-decoration:none}
+input{padding:.7rem;border-radius:8px;border:none}
+footer{text-align:center;padding:2rem}
